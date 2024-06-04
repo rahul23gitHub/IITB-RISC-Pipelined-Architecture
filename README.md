@@ -11,3 +11,5 @@ The 6 stages of the pipeline include :
 4. Execute
 5. Memory access
 6. Write back
+
+For more information, please refer to the project report.
